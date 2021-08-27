@@ -151,6 +151,7 @@ In your `package.json` file add the following
 ### 7. Run and modify your App
 
 Run the app with `npm run serve`.
+Open your browser on `http://localhost:3030/`
 Try to modify and see the changes on the fly.
 
 ### 8. Build the App
