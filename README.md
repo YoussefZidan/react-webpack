@@ -166,6 +166,7 @@ you will see the following output
   - bundle.js.LICENSE.txt
   - index.html
 ```
+Now open index.html file and you should see your App.
 
 **Follow me on**
 
